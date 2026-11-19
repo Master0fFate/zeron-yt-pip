@@ -1,0 +1,8 @@
+{
+  "id": "youtube-pip",
+  "name": "YouTube PiP",
+  "version": "0.1.1",
+  "description": "Watch a YouTube video in a floating player while you work in Zeron.",
+  "entry": "init.luau",
+  "permissions": ["ui.add", "pages.add", "web"]
+}
